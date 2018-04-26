@@ -1,0 +1,26 @@
+.ReduceTable1{
+  width: 100px;
+  background-color: pink;
+}
+.ReduceTable2{
+  width: 150px;
+  background-color: pink;
+}
+.ReduceTable3{
+  width: 70px;
+  background-color: pink;
+}
+.ReduceCourseButton{
+  font-family: 'Athiti', sans-serif;
+  margin-top: 10px;
+  margin-right: 26px;
+  border-radius: 7px;
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+  border-width: thin;
+}
+.ReduceCourseButton:Hover{
+  cursor: pointer;
+  background-color: pink;
+}

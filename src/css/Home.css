@@ -1,0 +1,84 @@
+.Home {
+  height: 100vh;
+}
+.HomeHeader{
+  background-color:  #FF69B4;
+  height: 80px;
+  position: fixed;
+  top:0;
+  left: 0;
+  width: 100%;
+  z-index: 1;
+
+}
+.HomeLogout{
+  position: fixed;
+  height: 30px;
+  right: 5%;
+  top: 25px;
+}
+
+.HomeLogout:Hover{
+  cursor: pointer;
+}
+.HomeTitle{
+  position: fixed;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size:40px;
+
+}
+.HomeSideBar{
+  background: #f5f5f5;
+  height: calc(100vh - 80px);
+  width: 0px;
+  position: fixed;
+  top: 80px;
+  left: 0px;
+  overflow-x: hidden;
+  transition: 0.5s;
+  z-index: 1;
+}
+.Re{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  color: black;
+}
+.HomeSideBarButton {
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    width: 240px;
+    border-style: none;
+    background-color: #f5f5f5;
+    font-size: 17px;
+    color: grey;
+    margin-top: -2px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: 'Athiti', sans-serif;
+}
+.Toggle{
+  position: fixed;
+  left: 3%;
+  top: 17px;
+  transition: 0.5s;
+  font-size: 40px;
+  color: white;
+  margin-top: -7px;
+  z-index: 100;
+}
+.Toggle:Hover{
+  cursor: pointer;
+}
+
+.HomeSideBarButton:Hover {
+    background-color: #FF69B4; /* Green */
+    color: white;
+    cursor: pointer;
+}
+.HomeBody{
+  top: 80px;
+  position: absolute;
+  left: 0px;
+  width: 100vw;
+}

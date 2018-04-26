@@ -1,0 +1,79 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 140px;
+}
+
+.App-header {
+  background-color: #FF69B4;
+  height: 200px;
+  padding-top: 20px;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-Username {
+  padding-top: 20px;
+
+
+}
+.App-bottom {
+  background-color: #FEF5FF;
+  height:74vh;
+
+}
+.Username-box{
+  height: 30px;
+  width: 200px;
+  padding-left: 10px;
+  border-radius: 6px;
+  border-style:  solid;
+  border-color: grey;
+  border-width: thin;
+  font-family: 'Montserrat', sans-serif;
+  padding-right: 10px;
+  font-size: 12px;
+}
+.App-Password {
+  padding-top: 10px;
+
+}
+.Password-box{
+  height: 30px;
+  width: 200px;
+  padding-left: 10px;
+  border-radius: 6px;
+  border-style:  solid;
+  border-color: grey;
+  border-width: thin;
+  font-family: 'Montserrat', sans-serif;
+  padding-right: 10px;
+  font-size: 12px;
+}
+::placeholder{
+  font-size: 12px;
+}
+.LoginButton{
+  padding-top: 20px;
+}
+.LoginButton2{
+  font-family: 'Montserrat', sans-serif;
+  height: 30px;
+  width: 70px;
+  border-radius: 7px;
+  border-style: solid;
+  font-size: 12px;
+  background-color: white;
+  border-width: thin;
+}
+.LoginButton2:Hover{
+  cursor: pointer;
+  background-color: #FF69B4;
+  color: white;
+}

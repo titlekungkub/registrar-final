@@ -1,0 +1,13 @@
+.DetailPage{
+  position: absolute;
+  font-family: 'Athiti', sans-serif;
+  left: 50%;
+  top: 0px;
+  transform: translate(-50%, 0);
+  -webkit-transform: translate(-50%, 0);
+  -moz-transform: translate(-50%, 0);
+  -o-transform: translate(-50%, 0);
+  -ms-transform: translate(-50%, 0);
+  text-align: center;
+  width: 80%;
+}

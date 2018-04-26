@@ -1,0 +1,137 @@
+/* .RegisterPage{
+  position: absolute;
+  font-family: 'Athiti', sans-serif;
+  left: 50%;
+  top: 0px;
+  transform: translate(-50%, 0);
+  -webkit-transform: translate(-50%, 0);
+  -moz-transform: translate(-50%, 0);
+  -o-transform: translate(-50%, 0);
+  -ms-transform: translate(-50%, 0);
+}
+
+.RegisterTable{
+  width: 100px;
+  background-color: pink;
+}
+.CourseNameStyle{
+  width: 250px;
+  background-color: pink;
+}
+
+.SearchBox{
+  font-family: 'Athiti', sans-serif;
+  margin-bottom: 10px;
+  border-radius: 7px;
+  border-style: solid;
+  border-width: thin;
+  padding-left: 7px;
+  border-color: grey;
+  font-size: 12px;
+  width: 200px;
+
+}::placeholder{
+  font-size: 12px;
+}
+.H1{
+  font-size: 20px;
+  margin-left: 2px;
+  margin-bottom: 0px;
+}
+.H2{
+  font-size: 25px;
+  margin-left: 2px;
+  margin-bottom: 0px;
+  color: red;
+} */
+
+.Toggle2{
+  position: fixed;
+  right: 2%;
+  bottom: 5%;
+  transition: 0.5s;
+  font-size: 40px;
+  color: black;
+  z-index: 100;
+}
+.Toggle2:Hover{
+  cursor: pointer;
+}
+
+.RegisterPage{
+  position: absolute;
+  font-family: 'Athiti', sans-serif;
+  left: 50%;
+  top: 0px;
+  transform: translate(-50%, 0);
+  -webkit-transform: translate(-50%, 0);
+  -moz-transform: translate(-50%, 0);
+  -o-transform: translate(-50%, 0);
+  -ms-transform: translate(-50%, 0);
+}
+
+.RegisterTable{
+  width: 1000px;
+  background-color: pink;
+}
+.CourseNameStyle{
+  width: 250px;
+  background-color: pink;
+}
+
+.cc {
+  color: black;
+}
+.SearchBox{
+  font-family: 'Athiti', sans-serif;
+  margin-bottom: 10px;
+  border-radius: 7px;
+  border-style: solid;
+  border-width: thin;
+  padding-left: 7px;
+  border-color: grey;
+  font-size: 12px;
+  width: 200px;
+
+}::placeholder{
+  font-size: 12px;
+}
+.H1{
+  font-size: 20px;
+  margin-left: 2px;
+  margin-bottom: 0px;
+}
+.H2{
+  font-size: 25px;
+  margin-left: 2px;
+  margin-bottom: 0px;
+  color: red;
+}
+.H3{
+  font-size: 25px;
+  margin-left: 2px;
+  margin-bottom: 0px;
+  color: black;
+  font-size: 20px;
+}
+.RightSideBar{
+  position: fixed;
+  font-family: 'Athiti', sans-serif;
+  width: 0%;
+  height: 0%;
+  border-radius: 8px;
+  transition: 0.5s;
+  background-color: #ffffff;
+  bottom: 5%;
+  right: 2%;
+  overflow: hidden;
+  white-space: nowrap;
+  padding-bottom: 20px;
+  box-shadow: 0px 0px 20px rgba(0,0,0,0.4);
+}
+.RightSideBarIn{
+  position: absolute;
+  top:2%;
+  left: 53%;
+  transform: translateX(-50%);
+}

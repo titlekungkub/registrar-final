@@ -1,0 +1,95 @@
+/* .RegisterButton{
+  font-family: 'Athiti', sans-serif;
+  border-radius: 7px;
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+  font-size: 18px;
+  border-width: thin;
+  width: 20px;
+  height: 20px;
+  line-height: 2px;
+  text-indent: 0px;
+  padding: 0px;
+}
+.RegisterButton:Hover{
+ cursor: pointer;
+ background-color: pink;
+}
+.RegisterButton2{
+  font-family: 'Athiti', sans-serif;
+  border-radius: 7px;
+  background-color: white;
+  border-style: solid;
+  border-color: white;
+  font-size: 10px;
+  border-width: thin;
+  width: 20px;
+  height: 20px;
+  padding: 0px;
+  color: white;
+}
+.RegisterSubmit{
+ font-family: 'Athiti', sans-serif;
+ float:right;
+ margin-top: 10px;
+ margin-right: 26px;
+ border-radius: 7px;
+ background-color: white;
+ border-style: solid;
+ border-color: black;
+ border-width: thin;
+}
+
+.RegisterSubmit:Hover{
+ cursor: pointer;
+ background-color: pink;
+} */
+
+.RegisterButton{
+  font-family: 'Athiti', sans-serif;
+  border-radius: 7px;
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+  font-size: 18px;
+  border-width: thin;
+  width: 20px;
+  height: 20px;
+  line-height: 2px;
+  text-indent: 0px;
+  padding: 0px;
+}
+.RegisterButton:Hover{
+ cursor: pointer;
+ background-color: pink;
+}
+.RegisterButton2{
+  font-family: 'Athiti', sans-serif;
+  border-radius: 7px;
+  background-color: white;
+  border-style: solid;
+  border-color: white;
+  font-size: 10px;
+  border-width: thin;
+  width: 20px;
+  height: 20px;
+  padding: 0px;
+  color: white;
+}
+.RegisterSubmit{
+ font-family: 'Athiti', sans-serif;
+ float:right;
+ margin-top: 10px;
+ margin-right: 26px;
+ border-radius: 7px;
+ background-color: white;
+ border-style: solid;
+ border-color: black;
+ border-width: thin;
+}
+
+.RegisterSubmit:Hover{
+ cursor: pointer;
+ background-color: pink;
+}

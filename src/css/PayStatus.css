@@ -1,0 +1,76 @@
+.Main{
+  position: absolute;
+  font-family: 'Athiti', sans-serif;
+  left: 50%;
+  top: 0px;
+  transform: translate(-50%, 0);
+  -webkit-transform: translate(-50%, 0);
+  -moz-transform: translate(-50%, 0);
+  -o-transform: translate(-50%, 0);
+  -ms-transform: translate(-50%, 0);
+}
+h1{
+  font-weight: bold;
+  font-size: 20px;
+}
+.profileContainer{
+  position: relative;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.payStatus{
+  position: relative;
+  text-align: center;
+}
+
+.r1{
+  width: 150px;
+  color: #ff7a90;
+  font-weight: normal;
+}
+.r2{
+  width: 150px;
+  font-weight: normal;
+  color: black;
+}
+.r3{
+  width: 150px;
+  font-weight: normal;
+  color: black;
+  background-color: pink;
+}
+
+
+.profileContainerTable{
+  text-align: left;
+  width: 410px;
+  font-size: 20px;
+}
+.profileContainerTable2{
+  text-align: center;
+  width: 410px;
+  font-size: 20px;
+}
+
+.selectOption{
+  font-family: 'Athiti', sans-serif;
+  height: 25px;
+  width: 70px;
+  background-color: pink;
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+.studyStatusTable{
+  text-align: left;
+  font-family: 'Athiti', sans-serif;
+  font-size: 20px;
+  width: 410px;
+}
+.trHead{
+  color: #ff7a90;
+}
+
+.formStatus{
+  margin-left: -270px;
+}
